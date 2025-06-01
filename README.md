@@ -1,0 +1,1 @@
+This project involves exploratory data analysis and visualization using a dataset of cars. The goal is to answer a series of analytical questions and generate meaningful insights based on various car attributes such as horsepower, weight, mpg (miles per gallon), model year, and origin.
